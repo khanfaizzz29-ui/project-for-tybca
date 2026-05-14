@@ -1,0 +1,6 @@
+{
+  "name": "The Black Book: Project Grade NLP",
+  "description": "An automated 'Black Book' styled intelligence system for evaluating academic projects using advanced NLP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
